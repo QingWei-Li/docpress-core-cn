@@ -17,7 +17,7 @@ describe('slugify', function () {
   test('page(callback)', 'pagecallback')
   test('page(path, callback[, callback ...])', 'pagepath-callback-callback-')
   test('context#save', 'contextsave')
-  test('404 behavior', '404-behavior')
+  test('404 behavior', '_404-behavior')
   test('IE8+', 'ie8')
   test('Hi (optional):', 'hi-optional')
   test('a  b  c', 'a-b-c')
