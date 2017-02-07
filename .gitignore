@@ -2,3 +2,4 @@ node_modules/
 _docpress
 /coverage
 .nyc_output
+npm-debug.log
