@@ -1,5 +1,5 @@
 {
-  "name": "docpress-core",
+  "name": "docpress-core-cn",
   "description": "Metalsmith plugin to generate Docpress site data from a project. Part of the [Docpress] project.",
   "homepage": "https://github.com/docpress/docpress-core#readme",
   "version": "0.7.1",
@@ -25,7 +25,6 @@
     "markdown-it-decorate": "1.2.2",
     "marked": "0.3.6",
     "metalsmith": "2.3.0",
-    "slugify": "1.0.2",
     "ware": "1.3.0"
   },
   "devDependencies": {
